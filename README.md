@@ -1,6 +1,14 @@
-# facebook_clone
+# FaceBook Clone
 
-A new Flutter project.
+FaceBook Clone is inspired By FaceBook, a popular social media app , where user can share their special moments, add friends and send messages , This Clone is also inspired by this app. In this clone Users can add posts , can like a post , comment on a post, can send friend requests , accept or reject it , as well as send or recieve messages.
+
+# Flutter UI
+
+Login and Signup Page for Authentication , Home Screen where user can see post like and comment on it. Friends Page , where user can see their Friends, as well as Accept and ignore friend requests, Chat screen where user can send and recieve message to their friends.
+
+# FireBase Features
+
+User Authentication(Register and Login). Add Post , Likes and Comments. Add and Remove Friends, Chat Screen and Chat Room
 
 ## Getting Started
 

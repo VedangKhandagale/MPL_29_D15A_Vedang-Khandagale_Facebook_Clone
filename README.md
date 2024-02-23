@@ -4,11 +4,17 @@ FaceBook Clone is inspired By FaceBook, a popular social media app , where user 
 
 # Flutter UI
 
-Login and Signup Page for Authentication , Home Screen where user can see post like and comment on it. Friends Page , where user can see their Friends, as well as Accept and ignore friend requests, Chat screen where user can send and recieve message to their friends.
+-[Login and Signup Page for Authentication]
+-[Home Screen where user can see post like and comment on it.]
+-[Friends Page , where user can see their Friends, as well as Accept and ignore friend requests] 
+-[Chat screen where user can send and recieve message to their friends.]
 
-# FireBase Features
+# FireBase Features and Data Stored in Firebase
 
-User Authentication(Register and Login). Add Post , Likes and Comments. Add and Remove Friends, Chat Screen and Chat Room
+-[User Authentication(Register and Login).] 
+-[Add Post , Likes and Comments.]
+-[Add and Remove Friends] 
+-[Chat Screen and Chat Room]
 
 ## Getting Started
 

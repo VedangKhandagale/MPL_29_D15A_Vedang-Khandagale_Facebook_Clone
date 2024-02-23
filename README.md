@@ -11,10 +11,10 @@ FaceBook Clone is inspired By FaceBook, a popular social media app , where user 
 
 # FireBase Features and Data Stored in Firebase
 
--User Authentication(Register and Login).
--Add Post , Likes and Comments.
--Add and Remove Friends
--Chat Screen and Chat Room
+-User Authentication(Register and Login).<br>
+-Add Post , Likes and Comments.<br>
+-Add and Remove Friends<br>
+-Chat Screen and Chat Room<br>
 
 ## Getting Started
 
